@@ -9,3 +9,5 @@ ini adalah repo catatan aktivitas saya selama di binar bootcamp, di binar untuk 
 ## Daily Log
 
 Day 1: Induction Binar Bootcamp 
+
+Day 2: Menyelesaikan Chapter 1 topik CSS Framework & Chapter 2 topik JavaScript : Struktur Data.
