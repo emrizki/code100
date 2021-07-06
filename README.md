@@ -15,3 +15,5 @@ Day 2: Menyelesaikan Chapter 1 (CSS Framework) & Chapter 2 (JavaScript : Struktu
 Day 3: Menyelesaikan Chapter 2 (Expression & Operators) & Chapter 2 (Basic JavaScript & Algorithm).
 
 Day 4: Masuk ke Chapter 3 membaca detail challenge di chapter 3.
+
+Day 5: Pengantar Full Stack Web
