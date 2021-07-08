@@ -16,6 +16,8 @@ Day 3: Menyelesaikan Chapter 2 (Expression & Operators) & Chapter 2 (Basic JavaS
 
 Day 4: Masuk ke Chapter 3 membaca detail challenge di chapter 3.
 
-Day 5: Pengantar Full Stack Web
+Day 5: Pengantar Full Stack Web.
 
-Day 6: explore diluar binar menyelesaikan course di freecodecamp bagian Basic HTML and HTML5
+Day 6: explore diluar binar menyelesaikan course di freecodecamp bagian Basic HTML and HTML5.
+
+Day 7: Belajar command line terminal & text editor vs code. 
