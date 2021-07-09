@@ -21,3 +21,5 @@ Day 5: Pengantar Full Stack Web.
 Day 6: explore diluar binar menyelesaikan course di freecodecamp bagian Basic HTML and HTML5.
 
 Day 7: Belajar command line terminal & text editor vs code. 
+
+Day 8: lanjut freecodecamp bagian Basic CSS (1-10) dan mulai pake command line untuk navigasi file
