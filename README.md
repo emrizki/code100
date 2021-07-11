@@ -25,3 +25,5 @@ Day 7: Belajar command line terminal & text editor vs code.
 Day 8: lanjut freecodecamp bagian Basic CSS (1-10) dan mulai pake command line untuk navigasi file
 
 Day 9: belajar git & github dasar
+
+Day 10: lanjut freecodecamp bagian Basic CSS (10-20) dan praktek git & github yang sudah dipelajari
