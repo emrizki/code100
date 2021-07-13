@@ -29,3 +29,5 @@ Day 9: belajar git & github dasar
 Day 10: lanjut freecodecamp bagian Basic CSS (10-20) dan praktek git & github yang sudah dipelajari
 
 Day 11: lanjut freecodecamp bagian Basic CSS (20-25)
+
+Day 12: belajar Web Layout dengan CSS Flexbox & Grid
