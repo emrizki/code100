@@ -33,3 +33,5 @@ Day 11: lanjut freecodecamp bagian Basic CSS (20-25)
 Day 12: belajar Web Layout dengan CSS Flexbox & Grid
 
 Day 13: mulai mengerjakan challenge: slicing layout website berdasarkan design challenge
+
+Day 14-15: lanjut mengerjakan challenge membuat landing page dengan html & css 
