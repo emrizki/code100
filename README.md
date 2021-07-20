@@ -37,3 +37,5 @@ Day 13: mulai mengerjakan challenge: slicing layout website berdasarkan design c
 Day 14-15: lanjut mengerjakan challenge membuat landing page dengan html & css 
 
 Day 16-17: mengerjakan challenge membuat landing page dengan bootstrap dan custom css
+
+Dau 18-19: mengumpulkan challenge landing page
