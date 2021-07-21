@@ -4,7 +4,7 @@ ini adalah repo catatan aktivitas saya selama di binar bootcamp, di binar untuk 
 
 ## Projects
 
--
+- landing page (challenge chapter 3) : https://emrizki.github.io
 
 ## Daily Log
 
