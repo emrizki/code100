@@ -6,36 +6,8 @@ ini adalah repo catatan aktivitas saya selama di binar bootcamp, di binar untuk 
 
 - landing page (challenge chapter 3) : https://emrizki.github.io
 
-## Daily Log
+## Forum Discussion Chapter 3 
 
-Day 1: Induction Binar Bootcamp.
+Senin, 5 Juli: 
 
-Day 2: Menyelesaikan Chapter 1 (CSS Framework) & Chapter 2 (JavaScript : Struktur Data).
-
-Day 3: Menyelesaikan Chapter 2 (Expression & Operators) & Chapter 2 (Basic JavaScript & Algorithm).
-
-Day 4: Masuk ke Chapter 3 membaca detail challenge di chapter 3.
-
-Day 5: Pengantar Full Stack Web.
-
-Day 6: explore diluar binar menyelesaikan course di freecodecamp bagian Basic HTML and HTML5.
-
-Day 7: Belajar command line terminal & text editor vs code. 
-
-Day 8: lanjut freecodecamp bagian Basic CSS (1-10) dan mulai pake command line untuk navigasi file
-
-Day 9: belajar git & github dasar
-
-Day 10: lanjut freecodecamp bagian Basic CSS (10-20) dan praktek git & github yang sudah dipelajari
-
-Day 11: lanjut freecodecamp bagian Basic CSS (20-25)
-
-Day 12: belajar Web Layout dengan CSS Flexbox & Grid
-
-Day 13: mulai mengerjakan challenge: slicing layout website berdasarkan design challenge
-
-Day 14-15: lanjut mengerjakan challenge membuat landing page dengan html & css 
-
-Day 16-17: mengerjakan challenge membuat landing page dengan bootstrap dan custom css
-
-Dau 18-19: mengumpulkan challenge landing page
+Pengantar Full Stack Web 
