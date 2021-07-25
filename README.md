@@ -21,7 +21,17 @@ Terminal dan IDE
 - **Jum'at, 9 Juli**: <br>
 GIT
 
-- ** 
+## Forum Discussion 2
 
--
+- **Senin, 12 Juli**: <br>
+Web Layout
+*Quiz Score*: 50
+
+- **Rabu, 14 Juli**: <br>
+Responsive Design <br>
+*Quiz Score*: 100
+
+- **Jum'at, 16 Juli** <br>
+CSS Framework (Bootstrap) <br>
+*Quiz Score*: 100
 
