@@ -4,7 +4,7 @@ ini adalah repo catatan aktivitas saya selama di binar bootcamp, di binar untuk 
 
 ## Projects
 
-- landing page (challenge chapter 3) : https://emrizki.github.io
+
 
 ## Chapter 3
 
@@ -23,7 +23,7 @@ Terminal dan IDE <br>
 GIT
 *Quiz Score*: 100
 
-## Forum Discussion 2
+### Forum Discussion 2
 
 - **Senin, 12 Juli**: <br>
 Web Layout <br>
@@ -36,4 +36,9 @@ Responsive Design <br>
 - **Jum'at, 16 Juli**: <br>
 CSS Framework (Bootstrap) <br>
 *Quiz Score*: 100
+
+## Project Chapter 3
+
+- ### landing page: [demo](https://emrizki.github.io)
+- ### report chapter 3: [click here](https://drive.google.com/file/d/1obFkGEdvnDSwZShtnTdmYc-IMG9jy5KD/view?usp=sharing)
 
