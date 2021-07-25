@@ -37,8 +37,8 @@ Responsive Design <br>
 CSS Framework (Bootstrap) <br>
 *Quiz Score*: 100
 
-## Project Chapter 3
+### Project & Score Chapter 3
 
-- ### landing page: [demo]("https://emrizki.github.io")
-- ### report chapter 3: <a href="https://drive.google.com/file/d/1obFkGEdvnDSwZShtnTdmYc-IMG9jy5KD/view?usp=sharing" target="_blank">click here</a>
+- #### landing page: *[demo](https://emrizki.github.io)*
+- #### report chapter 3: *[click here](https://drive.google.com/file/d/1obFkGEdvnDSwZShtnTdmYc-IMG9jy5KD/view?usp=sharing)*
 
