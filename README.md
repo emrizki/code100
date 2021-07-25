@@ -6,11 +6,22 @@ ini adalah repo catatan aktivitas saya selama di binar bootcamp, di binar untuk 
 
 - landing page (challenge chapter 3) : https://emrizki.github.io
 
-## Forum Discussion Chapter 3 
+## Chapter 3
+
+### Forum Discussion 1
 
 - **Senin, 5 Juli**: <br>
 Pengantar FullStack Web 
+*Quiz Score*: 87
+
 
 - **Rabu, 7 Juli**: <br>
 Terminal dan IDE
+
+- **Jum'at, 9 Juli**: <br>
+GIT
+
+- ** 
+
+-
 
