@@ -11,7 +11,7 @@ ini adalah repo catatan aktivitas saya selama di binar bootcamp, di binar untuk 
 ### Forum Discussion 1
 
 - **Senin, 5 Juli**: <br>
-Pengantar FullStack Web 
+Pengantar FullStack Web <br>
 *Quiz Score*: 87
 
 
