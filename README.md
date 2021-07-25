@@ -2,10 +2,6 @@
 
 ini adalah repo catatan aktivitas saya selama di binar bootcamp, di binar untuk menyelesaikan sebuah kursus khususnya Full Stack Web menghabiskan waktu selama 6 bulan. link dibawah adalah daftar project yang saya kerjakan selama di bootcamp. 
 
-## Projects
-
-
-
 ## Chapter 3
 
 ### Forum Discussion 1
