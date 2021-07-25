@@ -24,7 +24,7 @@ GIT
 ## Forum Discussion 2
 
 - **Senin, 12 Juli**: <br>
-Web Layout
+Web Layout <br>
 *Quiz Score*: 50
 
 - **Rabu, 14 Juli**: <br>
