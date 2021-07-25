@@ -8,4 +8,6 @@ ini adalah repo catatan aktivitas saya selama di binar bootcamp, di binar untuk 
 
 ## Forum Discussion Chapter 3 
 
-- Senin, 5 Juli: Pengantar Full Stack Web 
+- **Senin, 5 Juli**: 
+  Pengantar Full Stack Web 
+
