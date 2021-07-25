@@ -16,10 +16,12 @@ Pengantar FullStack Web <br>
 
 
 - **Rabu, 7 Juli**: <br>
-Terminal dan IDE
+Terminal dan IDE <br>
+*Quiz Score*: 100
 
 - **Jum'at, 9 Juli**: <br>
 GIT
+*Quiz Score*: 100
 
 ## Forum Discussion 2
 
@@ -31,7 +33,7 @@ Web Layout <br>
 Responsive Design <br>
 *Quiz Score*: 100
 
-- **Jum'at, 16 Juli** <br>
+- **Jum'at, 16 Juli**: <br>
 CSS Framework (Bootstrap) <br>
 *Quiz Score*: 100
 
