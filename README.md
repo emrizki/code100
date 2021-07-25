@@ -39,6 +39,6 @@ CSS Framework (Bootstrap) <br>
 
 ## Project Chapter 3
 
-- ### landing page: [demo](https://emrizki.github.io)
-- ### report chapter 3: [click here](https://drive.google.com/file/d/1obFkGEdvnDSwZShtnTdmYc-IMG9jy5KD/view?usp=sharing)
+- ### landing page: <a href="https://emrizki.github.io">demo</a>
+- ### report chapter 3: <a href="https://drive.google.com/file/d/1obFkGEdvnDSwZShtnTdmYc-IMG9jy5KD/view?usp=sharing" target="_black">click here</a>
 
