@@ -39,3 +39,30 @@ CSS Framework (Bootstrap) <br>
 - #### report chapter 3: *[click here](https://drive.google.com/file/d/1obFkGEdvnDSwZShtnTdmYc-IMG9jy5KD/view?usp=sharing)*
 
 <hr>
+
+## Chapter 4
+
+
+### Forum Discussion 1
+
+- **Senin, 26 Juli & Rabu, 28 Juli**: <br>
+Data Structure in JavaScript <br>
+*Quiz Score*: 100
+
+### Forum Discussion 1 & 2
+
+- **Jum'at, 30 Juli & Senin, 2 Agustus**: <br>
+OOP in JavaScript <br>
+*Quiz Score*: 100
+
+
+- **Rabu, 4 Agustus & Jum'at, 6 Agustus**: <br>
+DOM <br>
+*Quiz Score*: 100
+
+### Project & Score Chapter 4
+
+- #### rock paper scissors: *[demo](https://emrizki.github.io/binar-chp4-challenge/gameplay/index.html)*
+- #### report chapter 4: *[click here](https://drive.google.com/file/d/1cd9nNBDoxoswWF-SC2iUULCL_Eisr0G6/view?usp=sharing)*
+
+<hr>
