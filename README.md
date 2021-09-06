@@ -1,6 +1,6 @@
 # 180 Days of Binar Bootcamp (Start 1 July 2021)
 
-ini adalah repo catatan aktivitas selama di binar bootcamp, di binar menyelesaikan sebuah kursus khususnya Full Stack Web menghabiskan waktu selama 6 bulan.
+ini adalah repo catatan aktivitas selama di binar bootcamp, di binar menyelesaikan sebuah kursus khususnya Full Stack Web butuh waktu selama 6 bulan.
 
 ## Chapter 3
 
