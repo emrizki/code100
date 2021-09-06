@@ -71,20 +71,21 @@ DOM <br>
 
 ### Forum Discussion 1
 
-- **Senin, 16 Agustus**: <br>
-NodeJS
+- **Senin, <r 16 Agustus**: <br>
+NodeJS <br>
 *Quiz Score:* 100
 
 - **Rabu, 18 Agustus**: <br>
-HTTP Server
+HTTP Server <br>
 *Quiz Score:* 100
 
 
 ### Forum Discussion 1 & 2
 
 - **Jum'at, 20 Agustus & Senin, 23 Agustus**: br>
-ExpressJS
+ExpressJS <br>
 *Quiz Score:* 100
 
 - **Rabu, 25 Agustus & Jum'at, 27 Agustus**: <br>
-RestFul API
+RestFul API <br>
+*Quiz Score:* 100
