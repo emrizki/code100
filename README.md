@@ -92,7 +92,7 @@ RestFul API <br>
 
 ### Project & Score Chapter 5
 
-- #### move chp3 & chp4 file into server: *[project repository](https://github.com/emrizki/binar-chp5-challenge/blob/main/README.md)*
+- #### move chp3 & chp4 file into server: *[project repository](https://github.com/emrizki/binar-chp5-challenge)*
 - #### report chapter 5: *[click here](https://drive.google.com/file/d/1qfv5SnaNUmlVlwWgH9M6q4d2_gap5aIU/view?usp=sharing)*
 
 <hr>
