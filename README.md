@@ -66,3 +66,25 @@ DOM <br>
 - #### report chapter 4: *[click here](https://drive.google.com/file/d/1cd9nNBDoxoswWF-SC2iUULCL_Eisr0G6/view?usp=sharing)*
 
 <hr>
+
+## Chapter 5
+
+### Forum Discussion 1
+
+- **Senin, 16 Agustus**: <br>
+NodeJS
+*Quiz Score:* 100
+
+- **Rabu, 18 Agustus**: <br>
+HTTP Server
+*Quiz Score:* 100
+
+
+### Forum Discussion 1 & 2
+
+- **Jum'at, 20 Agustus & Senin, 23 Agustus**: br>
+ExpressJS
+*Quiz Score:* 100
+
+- **Rabu, 25 Agustus & Jum'at, 27 Agustus**: <br>
+RestFul API
