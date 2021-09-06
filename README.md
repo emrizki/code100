@@ -82,10 +82,15 @@ HTTP Server <br>
 
 ### Forum Discussion 1 & 2
 
-- **Jum'at, 20 Agustus & Senin, 23 Agustus**: br>
+- **Jum'at, 20 Agustus & Senin, 23 Agustus**: <br>
 ExpressJS <br>
 *Quiz Score:* 100
 
 - **Rabu, 25 Agustus & Jum'at, 27 Agustus**: <br>
 RestFul API <br>
 *Quiz Score:* 100
+
+### Project & Score Chapter 5
+
+- #### move chp3 & chp4 file into server: *[project repository](https://github.com/emrizki/binar-chp5-challenge/blob/main/README.md)*
+- #### report chapter 5: *[click here](https://drive.google.com/file/d/1qfv5SnaNUmlVlwWgH9M6q4d2_gap5aIU/view?usp=sharing)*
