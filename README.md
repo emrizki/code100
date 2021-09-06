@@ -35,7 +35,7 @@ CSS Framework (Bootstrap) <br>
 
 ### Project & Score Chapter 3
 
-- #### landing page: *[repository](https://github.com/emrizki/emrizki.github.io)*
+- #### landing page: *[project repository](https://github.com/emrizki/emrizki.github.io)*
 - #### report chapter 3: *[click here](https://drive.google.com/file/d/1obFkGEdvnDSwZShtnTdmYc-IMG9jy5KD/view?usp=sharing)*
 
 <hr>
