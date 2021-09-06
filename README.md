@@ -62,7 +62,7 @@ DOM <br>
 
 ### Project & Score Chapter 4
 
-- #### rock paper scissors: *[project repo](https://github.com/emrizki/binar-chp4-challenge)*
+- #### rock paper scissors: *[project repository](https://github.com/emrizki/binar-chp4-challenge)*
 - #### report chapter 4: *[click here](https://drive.google.com/file/d/1cd9nNBDoxoswWF-SC2iUULCL_Eisr0G6/view?usp=sharing)*
 
 <hr>
