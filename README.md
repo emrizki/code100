@@ -71,7 +71,7 @@ DOM <br>
 
 ### Forum Discussion 1
 
-- **Senin, <r 16 Agustus**: <br>
+- **Senin, 16 Agustus**: <br>
 NodeJS <br>
 *Quiz Score:* 100
 
