@@ -96,3 +96,32 @@ RestFul API <br>
 - #### report chapter 5: *[click here](https://drive.google.com/file/d/1qfv5SnaNUmlVlwWgH9M6q4d2_gap5aIU/view?usp=sharing)*
 
 <hr>
+
+## Chapter 6
+
+### Forum Discussion 1
+
+- **Senin, 06 September**: <br>
+Database <br>
+*Quiz Score:* 100
+
+- **Rabu, 08 September**: <br>
+SQL <br>
+*Quiz Score:* 80
+
+### Forum Discussion 1 & 2
+
+- **Jum'at, 10 September & Senin, 13 September**: <br>
+ORM <br>
+*Quiz Score:* 100
+
+- **Rabu, 15 September & Jum'at, 17 September**: <br>
+Implementation in Express <br>
+*Quiz Score:* 100
+
+### Project & Score Chapter 6
+
+- #### build simple monolith dashboard: *[project repository](https://github.com/emrizki/binar-chp6-challenge)*
+- #### report chapter 6: *[click here](https://drive.google.com/file/d/1maCoafMcGXWJ55Ig_Cxv-uYwJxDXNDt5/view?usp=sharing)*
+
+<hr>
