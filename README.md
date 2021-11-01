@@ -125,3 +125,28 @@ Implementation in Express <br>
 - #### report chapter 6: *[click here](https://drive.google.com/file/d/1maCoafMcGXWJ55Ig_Cxv-uYwJxDXNDt5/view?usp=sharing)*
 
 <hr>
+
+# Chapter 7
+
+### Forum Discussion 1
+
+- **Senin, 27 September & Rabu, 29 September**: <br>
+Design Pattern <br>
+*Quiz Score:* 40
+
+### Forum Discussion 1 & 2 
+
+- **Jumat, 01 Oktober & Senin, 04 Oktober**: <br>
+Template Engine <br>
+*Quiz Score:* 100
+
+- **Rabu, 06 Oktober & Jum'at, 08 Oktober**: <br>
+  - Asynchronous <br>
+   *Quiz Score:* 80
+  - Authentication <br>
+   *Quiz Score:* 83
+ 
+### Project & Score Chapter 7
+
+- #### melanjutkan project yang sudah dibuat pada chapte 6: *[project repository](https://github.com/emrizki/binar-chp7-challenge)*
+- #### report chapter 7: *[click here](https://drive.google.com/file/d/1aTzYsyDtCnMYzb8WocxpvyIvj5G827A1/view?usp=sharing)*
