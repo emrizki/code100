@@ -153,7 +153,7 @@ Template Engine <br>
 
 <hr>
 
-# Chapter 7
+# Chapter 8
 
 ### Forum Discussion 1
 
@@ -174,5 +174,5 @@ ReactJS (SPA) <br>
 ### Project & Score Chapter 8
 
 - #### membuat docs API (swagger) & membuat aplikasi dengan ReactJS : *[project repository](https://github.com/emrizki/binar-chp8-challenge)*
-- #### report chapter 7: *[click here](https://drive.google.com/file/d/1GPfkewxbMqtIjVVSJZC42H6h4kHWHQgL/view?usp=sharing)*
+- #### report chapter 8: *[click here](https://drive.google.com/file/d/1GPfkewxbMqtIjVVSJZC42H6h4kHWHQgL/view?usp=sharing)*
 
