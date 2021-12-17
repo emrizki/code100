@@ -150,3 +150,29 @@ Template Engine <br>
 
 - #### melanjutkan project yang sudah dibuat pada chapte 6: *[project repository](https://github.com/emrizki/binar-chp7-challenge)*
 - #### report chapter 7: *[click here](https://drive.google.com/file/d/1aTzYsyDtCnMYzb8WocxpvyIvj5G827A1/view?usp=sharing)*
+
+<hr>
+
+# Chapter 7
+
+### Forum Discussion 1
+
+- **Senin, 18 Oktober & Rabu, 20 Oktober**: <br>
+Swagger <br>
+*Quiz Score:* 100
+
+### Forum Discussion 1 & 2 
+
+- **Jumat, 22 Oktober & Senin, 25 Oktober**: <br>
+Monolith Dashboard <br>
+*Quiz Score:* 100
+
+- **Rabu, 27 Oktober & Jum'at, 29 Oktober**: <br>
+ReactJS (SPA) <br>
+*Quiz Score:* 100
+
+### Project & Score Chapter 8
+
+- #### membuat docs API (swagger) & membuat aplikasi dengan ReactJS : *[project repository](https://github.com/emrizki/binar-chp8-challenge)*
+- #### report chapter 7: *[click here](https://drive.google.com/file/d/1GPfkewxbMqtIjVVSJZC42H6h4kHWHQgL/view?usp=sharing)*
+
