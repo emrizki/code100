@@ -176,3 +176,26 @@ ReactJS (SPA) <br>
 - #### membuat docs API (swagger) & membuat aplikasi dengan ReactJS : *[project repository](https://github.com/emrizki/binar-chp8-challenge)*
 - #### report chapter 8: *[click here](https://drive.google.com/file/d/1GPfkewxbMqtIjVVSJZC42H6h4kHWHQgL/view?usp=sharing)*
 
+<hr>
+
+# Chapter 9
+
+### Forum Discussion 1
+
+- **Senin, 01 November & Rabu, 03 November**: <br>
+Scurm <br>
+
+### Forum Discussion 1 & 2 
+
+- **Jumat, 05 November & Senin, 08 November**: <br>
+ReactJS Part 2<br>
+
+- **Rabu, 10 November & Jum'at, 12 November**: <br>
+Firebase Integration <br>
+
+
+### Project & Score Chapter 9
+
+- #### membuat website yg memungkinkan user bermain berbagai jenis game: 
+    - **project repository:** (*[backend](https://github.com/emrizki/binar-chp9-challenge-backend)* - *[frontend](https://github.com/emrizki/binar-chp9-challenge-frontend)*)
+- #### report chapter 9: *[click here](https://drive.google.com/file/d/1t1DOu1tBHMWCmg5sIWxtkH7DVkjFM1JH/view?usp=sharing)*
