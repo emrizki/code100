@@ -183,19 +183,41 @@ ReactJS (SPA) <br>
 ### Forum Discussion 1
 
 - **Senin, 01 November & Rabu, 03 November**: <br>
-Scurm <br>
+Scrum <br>
 
 ### Forum Discussion 1 & 2 
 
 - **Jumat, 05 November & Senin, 08 November**: <br>
 ReactJS Part 2<br>
 
-- **Rabu, 10 November & Jum'at, 12 November**: <br>
+- **Rabu, 10 November**: <br>
 Firebase Integration <br>
 
+- **Rabu, 17 November**: <br>
+Presentasi Projek <br>
 
 ### Project & Score Chapter 9
 
 - #### membuat website yg memungkinkan user bermain berbagai jenis game: 
     - **project repository:** (*[backend](https://github.com/emrizki/binar-chp9-challenge-backend)* - *[frontend](https://github.com/emrizki/binar-chp9-challenge-frontend)*)
+- #### report chapter 9: *[click here](https://drive.google.com/file/d/1t1DOu1tBHMWCmg5sIWxtkH7DVkjFM1JH/view?usp=sharing)*
+
+<hr>
+
+# Chapter 10
+
+### Forum Discussion 1
+
+- **Senin, 22 November, Rabu, 24 November & Jum'at, 26 November**: <br>
+Redux <br>
+
+### Forum Discussion 2
+- **Senin, 29 November & Rabu, 01 Desember**: <br>
+Server Side Rendering <br>
+
+
+### Project & Score Chapter 10
+
+- #### lanjutan chapter 9 dengan penambahan redux dan nextjs: 
+    - **project repository:** (*[backend](https://github.com/emrizki/binar-chp10-challenge-backend)* - *[https://github.com/emrizki/binar-chp10-challenge-frontend)*)
 - #### report chapter 9: *[click here](https://drive.google.com/file/d/1t1DOu1tBHMWCmg5sIWxtkH7DVkjFM1JH/view?usp=sharing)*
