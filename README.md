@@ -220,4 +220,4 @@ Server Side Rendering <br>
 
 - #### lanjutan chapter 9 dengan penambahan redux dan nextjs: 
     - **project repository:** (*[backend](https://github.com/emrizki/binar-chp10-challenge-backend)* - *[https://github.com/emrizki/binar-chp10-challenge-frontend)*)
-- #### report chapter 9: *[click here](https://drive.google.com/file/d/1t1DOu1tBHMWCmg5sIWxtkH7DVkjFM1JH/view?usp=sharing)*
+- #### report chapter 9: *[click here](https://drive.google.com/file/d/17R6BiyxHVuLBiXa1ESSyiOK51ap64AEK/view?usp=sharing)*
