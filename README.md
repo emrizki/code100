@@ -193,7 +193,7 @@ ReactJS Part 2<br>
 - **Rabu, 10 November**: <br>
 Firebase Integration <br>
 
-### Persentasi Projek
+### Presentasi Projek
 
 - **Rabu, 17 November**: <br>
 Presentasi Projek <br>
@@ -217,7 +217,7 @@ Redux <br>
 - **Senin, 29 November & Rabu, 01 Desember**: <br>
 Server Side Rendering <br>
 
-### Persentasi Projek
+### Presentasi Projek
 
 - **Rabu, 08 Desember**: <br>
 Presentasi Projek <br>
@@ -225,5 +225,5 @@ Presentasi Projek <br>
 ### Project & Score Chapter 10
 
 - #### lanjutan chapter 9 dengan penambahan redux dan nextjs: 
-    - **project repository:** (*[backend](https://github.com/emrizki/binar-chp10-challenge-backend)* - *[frontend](https://github.com/emrizki/binar-chp10-challenge-frontend)*
+    - **project repository:** (*[backend](https://github.com/emrizki/binar-chp10-challenge-backend)* - *[frontend](https://github.com/emrizki/binar-chp10-challenge-frontend)*)
 - #### report chapter 10: *[click here](https://drive.google.com/file/d/17R6BiyxHVuLBiXa1ESSyiOK51ap64AEK/view?usp=sharing)*
